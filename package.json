@@ -1,0 +1,23 @@
+{
+  "name": "mark-mini",
+  "version": "1.0.0",
+  "description": "Inline-level Markdown Parser",
+  "main": "index.js",
+  "scripts": {
+    "develop": "ava --watch",
+    "test": "ava"
+  },
+  "keywords": [
+    "markdown",
+    "markdown-it",
+    "inline-markdown"
+  ],
+  "author": "Aaron Noel De Leon <aaronnoeldeleon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "markdown-it": "^9.1.0"
+  },
+  "devDependencies": {
+    "ava": "^2.2.0"
+  }
+}
