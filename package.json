@@ -15,7 +15,7 @@
   "author": "Aaron Noel De Leon <aaronnoeldeleon@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "markdown-it": "^9.1.0"
+    "markdown-it": "^12.3.2"
   },
   "devDependencies": {
     "ava": "^2.2.0"
